@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66ef3846ef9d4d840a24d2d434e7357f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/Demo/Demo.unity
+  uploadId: 569719

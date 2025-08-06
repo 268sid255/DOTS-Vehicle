@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0dced9928dfe1c940b00253c442d047b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 238209
+  packageName: C# Generator
+  packageVersion: 1.3
+  assetPath: Assets/Packages/CSharpGenerator/Demo/GeneratedDemoScript.cs
+  uploadId: 569719
